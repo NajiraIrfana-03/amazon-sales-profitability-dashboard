@@ -1,0 +1,801 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost,ProductTier,ProductStatus
+P0001,Beauty Product 0001,Beauty,Personal Care,BrightHome,1141.17,818.34,Standard,Active
+P0002,Beauty Product 0002,Beauty,Fragrance,Northstar,512.75,268.45,Standard,Active
+P0003,Grocery Product 0003,Grocery,Packaged Foods,BlueLeaf,1513.84,954.87,Standard,Active
+P0004,Electronics Product 0004,Electronics,Audio,Nova,3478.58,2416.8,Standard,Discontinued
+P0005,Grocery Product 0005,Grocery,Staples,Northstar,471.41,257.47,Standard,Active
+P0006,Electronics Product 0006,Electronics,Mobile Phones,BrightHome,2486.57,1823.2,Standard,Discontinued
+P0007,Home Product 0007,Home & Kitchen,Kitchen Appliances,Peak,4197.61,2200.28,Standard,Active
+P0008,Books Product 0008,Books,Fiction,Everday,1135.03,866.15,Standard,Active
+P0009,Sports Product 0009,sports ,Cycling,Vertex,709.45,410.08,Premium,Active
+P0010,Electronics Product 0010,Electronics,Mobile Phones,Vertex,1893.58,1415.55,Premium,Active
+P0011,Beauty Product 0011,Beauty,Makeup,Peak,402.55,212.36,Standard,Active
+P0012,Fashion Product 0012,Fashion,Watches,Everday,183.98,136.16,Premium,Active
+P0013,Fashion Product 0013,Fashion,Watches,UrbanNest,500.41,314.5,Standard,Active
+P0014,Sports Product 0014,Sports,Cycling,Northstar,277.83,138.87,Standard,Active
+P0015,Books Product 0015,Books,Education,Everday,732.07,516.74,Standard,Active
+P0016,Electronics Product 0016,Electronics,Accessories,Vertex,1370.94,700.02,Standard,Active
+P0017,Electronics Product 0017,Electronics,Accessories,Peak,2581.44,1850.24,Standard,Active
+P0018,Home Product 0018,Home & Kitchen,Furniture,Cedar & Co.,1695.53,1022.43,Standard,Active
+P0019,Grocery Product 0019,Grocery,Beverages,Northstar,329.59,188.0,Budget,Active
+P0020,Beauty Product 0020,Beauty,Personal Care,Aster,322.71,184.77,Budget,Active
+P0021,Fashion Product 0021,Fashion,Watches,Orion,900.36,609.48,Standard,Active
+P0022,Beauty Product 0022,Beauty,Fragrance,UrbanNest,436.96,273.94,Premium,Active
+P0023,Books Product 0023,Books,Children,Aster,743.54,367.42,Standard,Active
+P0024,Electronics Product 0024,Electronics,Laptops,Vertex,5393.87,3666.75,Budget,Active
+P0025,Fashion Product 0025,Fashion,Footwear,UrbanNest,1046.64,510.5,Budget,Active
+P0026,Beauty Product 0026,Beauty,Makeup,BlueLeaf,1218.73,786.65,Budget,Active
+P0027,Fashion Product 0027,Fashion,Footwear,Peak,794.53,470.94,Standard,Discontinued
+P0028,Electronics Product 0028,Electronics,Audio,Peak,4003.91,3141.85,Premium,Active
+P0029,Electronics Product 0029,Electronics,Cameras,BlueLeaf,1728.84,1257.17,Budget,Active
+P0030,Grocery Product 0030,Grocery,Snacks,Nova,267.27,131.69,Standard,Active
+P0031,Sports Product 0031,Sports,Cycling,Vertex,330.23,265.5,Standard,Active
+P0032,Home Product 0032,Home & Kitchen,Home Decor,Peak,1101.53,590.38,Standard,Active
+P0033,Grocery Product 0033,Grocery,Snacks,Northstar,2124.5,1663.21,Budget,Active
+P0034,Home Product 0034,Home & Kitchen,Home Decor,BrightHome,2121.92,1495.88,Standard,Active
+P0035,Beauty Product 0035,Beauty,Haircare,Orion,259.46,145.8,Standard,Active
+P0036,Electronics Product 0036,Electronics,Accessories,BlueLeaf,1350.39,923.38,Standard,Discontinued
+P0037,Home Product 0037,Home & Kitchen,Cookware,Vertex,1338.88,870.61,Standard,Discontinued
+P0038,Electronics Product 0038,Electronics,Mobile Phones,Cedar & Co.,1926.54,1368.62,Standard,Active
+P0039,Books Product 0039,Books,Children,Everday,336.42,253.46,Premium,Active
+P0040,Electronics Product 0040,Electronics,Cameras,Nova,1251.9,729.01,Premium,Active
+P0041,Grocery Product 0041,Grocery,Staples,UrbanNest,385.68,188.39,Premium,Active
+P0042,Electronics Product 0042,Electronics,Cameras,Aster,1926.4,1199.18,Premium,Discontinued
+P0043,Grocery Product 0043,Grocery,Packaged Foods,Vertex,216.89,161.98,Standard,Active
+P0044,Sports Product 0044,Sports,Fitness,UrbanNest,397.96,222.5,Premium,Active
+P0045,Sports Product 0045,Sports,Sportswear,Everday,436.98,265.34,Standard,Active
+P0046,Sports Product 0046,Sports,Sportswear,Orion,216.3,122.05,Premium,Active
+P0047,Sports Product 0047,Sports,Accessories,Nova,269.97,184.15,Standard,Active
+P0048,Home Product 0048,Home & Kitchen,Cookware,Everday,1497.55,1187.75,Standard,Active
+P0049,Electronics Product 0049,Electronics,Audio,Nova,1505.55,751.02,Standard,Discontinued
+P0050,Books Product 0050,Books,Education,Northstar,1389.24,852.76,Standard,Active
+P0051,Sports Product 0051,Sports,Sportswear,Northstar,824.14,446.44,Standard,Active
+P0052,Fashion Product 0052,Fashion,Women Clothing,Aster,868.14,431.25,Standard,Active
+P0053,Electronics Product 0053,Electronics,Mobile Phones,Northstar,2192.07,1741.48,Standard,Discontinued
+P0054,Sports Product 0054,Sports,Accessories,Everday,282.63,212.73,Premium,Discontinued
+P0055,Beauty Product 0055,Beauty,Personal Care,Nova,538.07,352.35,Budget,Discontinued
+P0056,Home Product 0056,Home & Kitchen,Home Decor,Aster,2054.78,1172.45,Standard,Active
+P0057,Home Product 0057,Home & Kitchen,Storage,Orion,569.72,344.44,Standard,Active
+P0058,Books Product 0058,Books,Fiction,BlueLeaf,505.79,405.95,Standard,Discontinued
+P0059,Home Product 0059,Home & Kitchen,Home Decor,Peak,6657.46,4672.74,Budget,Active
+P0060,Books Product 0060,Books,Business,Aster,385.25,281.18,Premium,Active
+P0061,Sports Product 0061,Sports,Accessories,Nova,1564.63,801.61,Premium,Active
+P0062,Grocery Product 0062,Grocery,Snacks,Nova,618.17,498.26,Premium,Discontinued
+P0063,Beauty Product 0063,Beauty,Fragrance,Vertex,303.9,172.05,Premium,Active
+P0064,Books Product 0064,Books,Education,Aster,398.51,267.83,Standard,Active
+P0065,Fashion Product 0065,Fashion,Watches,Vertex,886.6,573.92,Premium,Active
+P0066,Electronics Product 0066,Electronics,Accessories,Peak,549.69,280.24,Standard,Active
+P0067,Beauty Product 0067,Beauty,Haircare,BlueLeaf,1448.56,1137.76,Budget,Active
+P0068,Home Product 0068,Home & Kitchen,Furniture,Cedar & Co.,1611.46,859.86,Budget,Active
+P0069,Fashion Product 0069,Fashion,Watches,BrightHome,1974.49,1318.99,Budget,Active
+P0070,Fashion Product 0070,Fashion,Watches,Aster,655.59,534.6,Budget,Active
+P0071,Electronics Product 0071,Electronics,Laptops,Northstar,1543.29,804.75,Premium,Active
+P0072,Electronics Product 0072,Electronics,Cameras,BrightHome,4806.41,3655.93,Standard,Active
+P0073,Fashion Product 0073,Fashion,Men Clothing,UrbanNest,963.06,718.1,Standard,Active
+P0074,Sports Product 0074,Sports,Accessories,Aster,456.3,348.86,Budget,Active
+P0075,Books Product 0075,Books,Education,BlueLeaf,1149.49,902.34,Standard,Active
+P0076,Electronics Product 0076,Electronics,Laptops,Aster,2086.25,1141.99,Premium,Discontinued
+P0077,Electronics Product 0077,Electronics,Mobile Phones,Aster,3353.24,2300.37,Budget,Discontinued
+P0078,Sports Product 0078,Sports,Outdoor,Cedar & Co.,390.83,294.03,Budget,Discontinued
+P0079,Books Product 0079,Books,Technology,Northstar,617.15,322.44,Standard,Active
+P0080,Books Product 0080,Books,Children,Vertex,346.86,184.8,Standard,Active
+P0081,Home Product 0081,Home & Kitchen,Kitchen Appliances,BlueLeaf,6542.79,4500.95,Standard,Active
+P0082,Electronics Product 0082,Electronics,Cameras,BrightHome,1631.45,1176.69,Standard,Active
+P0083,Electronics Product 0083,Electronics,Laptops,Cedar & Co.,1101.94,822.69,Premium,Discontinued
+P0084,Electronics Product 0084,Electronics,Audio,BrightHome,4846.63,2822.95,Premium,Active
+P0085,Books Product 0085,Books,Business,Cedar & Co.,866.54,565.71,Standard,Discontinued
+P0086,Electronics Product 0086,Electronics,Audio,Nova,1896.14,1089.42,Standard,Active
+P0087,Books Product 0087,Books,Business,Everday,822.55,509.15,Standard,Discontinued
+P0088,Home Product 0088,Home & Kitchen,Home Decor,Peak,1276.06,794.04,Standard,Active
+P0089,Fashion Product 0089,Fashion,Women Clothing,Everday,478.98,335.43,Premium,Active
+P0090,Beauty Product 0090,Beauty,Haircare,Peak,1443.55,904.65,Standard,Active
+P0091,Fashion Product 0091,Fashion,Bags,Vertex,696.18,552.18,Standard,Active
+P0092,Beauty Product 0092,Beauty,Makeup,BrightHome,897.58,686.39,Standard,Active
+P0093,Electronics Product 0093,Electronics,Accessories,Northstar,2369.51,1363.43,Standard,Active
+P0094,Home Product 0094,Home & Kitchen,Kitchen Appliances,BrightHome,455.77,221.04,Budget,Discontinued
+P0095,Home Product 0095,Home & Kitchen,Storage,Nova,1049.36,546.39,Standard,Active
+P0096,Grocery Product 0096,Grocery,Household,Vertex,900.67,527.55,Premium,Active
+P0097,Home Product 0097,Home & Kitchen,Cookware,BlueLeaf,1687.44,929.91,Standard,Active
+P0098,Electronics Product 0098,Electronics,Mobile Phones,Cedar & Co.,3529.47,2881.12,Budget,Active
+P0099,Grocery Product 0099,Grocery,Packaged Foods,Nova,1862.8,1142.78,Standard,Discontinued
+P0100,Fashion Product 0100,Fashion,Watches,UrbanNest,2101.72,1116.49,Budget,Active
+P0101,Electronics Product 0101,Electronics,Cameras,Orion,2903.42,1877.55,Premium,Active
+P0102,Electronics Product 0102,Electronics,Audio,Northstar,508.11,389.63,Premium,Active
+P0103,Books Product 0103,Books,Children,Vertex,757.11,457.78,Standard,Discontinued
+P0104,Sports Product 0104,Sports,Outdoor,BlueLeaf,986.71,731.48,Standard,Discontinued
+P0105,Sports Product 0105,Sports,Outdoor,Everday,299.7,178.56,Standard,Discontinued
+P0106,Electronics Product 0106,Electronics,Audio,Everday,1707.07,1351.82,Standard,Active
+P0107,Home Product 0107,Home & Kitchen,Furniture,Orion,1596.88,1270.06,Standard,Active
+P0108,Books Product 0108,Books,Fiction,Nova,617.69,354.88,Premium,Active
+P0109,Grocery Product 0109,Grocery,Household,Everday,1657.28,1224.54,Budget,Active
+P0110,Grocery Product 0110,Grocery,Packaged Foods,Aster,521.46,403.98,Premium,Active
+P0111,Fashion Product 0111,Fashion,Watches,Everday,775.54,627.98,Budget,Active
+P0112,Beauty Product 0112,Beauty,Haircare,Peak,188.32,93.02,Standard,Discontinued
+P0113,Grocery Product 0113,Grocery,Household,Peak,171.7,106.44,Budget,Active
+P0114,Fashion Product 0114,Fashion,Men Clothing,BrightHome,403.23,320.33,Standard,Discontinued
+P0115,Home Product 0115,Home & Kitchen,Cookware,Aster,828.66,588.02,Premium,Active
+P0116,Sports Product 0116,Sports,Sportswear,BrightHome,248.39,186.86,Standard,Active
+P0117,Books Product 0117,Books,Fiction,Northstar,665.84,436.11,Premium,Active
+P0118,Home Product 0118,Home & Kitchen,Kitchen Appliances,Orion,1321.88,936.35,Budget,Active
+P0119,Home Product 0119,Home & Kitchen,Storage,Northstar,1328.21,904.12,Standard,Active
+P0120,Sports Product 0120,Sports,Outdoor,BlueLeaf,282.01,143.5,Premium,Active
+P0121,Beauty Product 0121,Beauty,Makeup,Cedar & Co.,739.48,457.52,Standard,Active
+P0122,Grocery Product 0122,Grocery,Staples,Aster,250.61,171.01,Budget,Active
+P0123,Fashion Product 0123,Fashion,Women Clothing,Nova,2270.8,1141.84,Standard,Active
+P0124,Fashion Product 0124,Fashion,Men Clothing,BrightHome,742.5,443.06,Budget,Active
+P0125,Beauty Product 0125,Beauty,Makeup,Peak,502.81,394.7,Standard,Active
+P0126,Sports Product 0126,Sports,Outdoor,Orion,439.19,321.66,Premium,Active
+P0127,Home Product 0127,Home & Kitchen,Cookware,Orion,3369.09,1795.22,Budget,Active
+P0128,Fashion Product 0128,Fashion,Women Clothing,Everday,869.35,648.97,Standard,Active
+P0129,Grocery Product 0129,Grocery,Staples,BlueLeaf,468.91,254.6,Premium,Active
+P0130,Books Product 0130,Books,Education,Cedar & Co.,472.67,309.28,Standard,Active
+P0131,Grocery Product 0131,Grocery,Packaged Foods,Nova,361.46,203.74,Standard,Discontinued
+P0132,Fashion Product 0132,Fashion,Footwear,Northstar,1497.72,744.86,Standard,Active
+P0133,Electronics Product 0133,Electronics,Accessories,BlueLeaf,909.24,529.82,Standard,Active
+P0134,Electronics Product 0134,Electronics,Audio,Nova,3046.62,2356.07,Standard,Active
+P0135,Fashion Product 0135,Fashion,Men Clothing,UrbanNest,1087.12,810.34,Budget,Active
+P0136,Home Product 0136,Home & Kitchen,Furniture,Northstar,325.38,209.27,Standard,Active
+P0137,Home Product 0137,Home & Kitchen,Furniture,Cedar & Co.,765.42,487.31,Premium,Active
+P0138,Electronics Product 0138,Electronics,Mobile Phones,Aster,1563.67,1239.05,Standard,Active
+P0139,Electronics Product 0139,Electronics,Mobile Phones,Nova,333.65,187.56,Premium,Active
+P0140,Sports Product 0140,Sports,Cycling,Peak,700.12,539.19,Standard,Active
+P0141,Beauty Product 0141,Beauty,Fragrance,Northstar,655.61,519.5,Standard,Discontinued
+P0142,Grocery Product 0142,Grocery,Packaged Foods,Nova,1523.87,1152.77,Budget,Active
+P0143,Books Product 0143,Books,Fiction,Orion,1046.81,615.52,Standard,Discontinued
+P0144,Home Product 0144,Home & Kitchen,Kitchen Appliances,BlueLeaf,1916.5,1027.75,Premium,Active
+P0145,Beauty Product 0145,Beauty,Fragrance,UrbanNest,787.12,536.74,Standard,Discontinued
+P0146,Books Product 0146,Books,Education,Nova,875.43,571.2,Standard,Discontinued
+P0147,Electronics Product 0147,Electronics,Audio,Cedar & Co.,3519.95,1841.46,Budget,Active
+P0148,Fashion Product 0148,Fashion,Bags,BlueLeaf,288.63,165.35,Premium,Active
+P0149,Home Product 0149,Home & Kitchen,Furniture,BlueLeaf,471.31,229.14,Premium,Active
+P0150,Sports Product 0150,Sports,Outdoor,Orion,669.25,460.22,Standard,Active
+P0151,Books Product 0151,Books,Business,BlueLeaf,1483.2,1094.4,Budget,Active
+P0152,Fashion Product 0152,Fashion,Footwear,UrbanNest,558.59,419.31,Standard,Active
+P0153,Electronics Product 0153,Electronics,Cameras,Northstar,1331.48,948.12,Standard,Active
+P0154,Electronics Product 0154,Electronics,Accessories,Cedar & Co.,5291.59,4085.39,Standard,Discontinued
+P0155,Fashion Product 0155,Fashion,Bags,Vertex,664.35,404.51,Standard,Active
+P0156,Beauty Product 0156,Beauty,Personal Care,BrightHome,874.74,589.38,Budget,Active
+P0157,Sports Product 0157,Sports,Accessories,Vertex,508.91,279.64,Premium,Active
+P0158,Grocery Product 0158,Grocery,Snacks,Cedar & Co.,667.58,483.71,Standard,Discontinued
+P0159,Home Product 0159,Home & Kitchen,Furniture,Everday,3408.43,2110.18,Premium,Active
+P0160,Fashion Product 0160,Fashion,Bags,UrbanNest,1284.88,781.53,Standard,Active
+P0161,Electronics Product 0161,Electronics,Laptops,BlueLeaf,421.08,338.83,Standard,Active
+P0162,Beauty Product 0162,Beauty,Skincare,Peak,692.26,397.74,Standard,Active
+P0163,Fashion Product 0163,Fashion,Men Clothing,Peak,627.68,310.93,Standard,Active
+P0164,Books Product 0164,Books,Technology,Orion,157.28,81.41,Standard,Active
+P0165,Beauty Product 0165,Beauty,Haircare,Northstar,769.81,627.21,Budget,Active
+P0166,Electronics Product 0166,Electronics,Accessories,Orion,2235.52,1304.47,Standard,Active
+P0167,Sports Product 0167,Sports,Sportswear,Everday,427.81,229.39,Standard,Active
+P0168,Sports Product 0168,Sports,Fitness,Vertex,391.49,285.77,Standard,Active
+P0169,Home Product 0169,Home & Kitchen,Kitchen Appliances,Vertex,1611.56,886.87,Budget,Active
+P0170,Sports Product 0170,Sports,Fitness,Nova,249.44,142.17,Standard,Discontinued
+P0171,Home Product 0171,Home & Kitchen,Kitchen Appliances,BrightHome,1128.81,814.42,Budget,Active
+P0172,Home Product 0172,Home & Kitchen,Cookware,UrbanNest,2677.4,1511.28,Standard,Active
+P0173,Grocery Product 0173,Grocery,Snacks,Northstar,423.43,277.77,Standard,Active
+P0174,Fashion Product 0174,Fashion,Footwear,UrbanNest,546.08,286.58,Budget,Active
+P0175,Fashion Product 0175,Fashion,Bags,Cedar & Co.,819.9,548.1,Standard,Active
+P0176,Electronics Product 0176,Electronics,Laptops,Aster,3446.17,2728.43,Premium,Active
+P0177,Fashion Product 0177,Fashion,Bags,BrightHome,497.8,270.63,Budget,Active
+P0178,Beauty Product 0178,Beauty,Fragrance,Northstar,178.46,94.94,Standard,Discontinued
+P0179,Electronics Product 0179,Electronics,Accessories,UrbanNest,1252.03,866.06,Budget,Active
+P0180,Electronics Product 0180,Electronics,Cameras,UrbanNest,1985.87,1248.95,Standard,Active
+P0181,Grocery Product 0181,Grocery,Beverages,UrbanNest,372.53,236.86,Standard,Active
+P0182,Books Product 0182,Books,Education,BlueLeaf,768.4,609.67,Premium,Active
+P0183,Fashion Product 0183,Fashion,Women Clothing,BlueLeaf,224.6,143.91,Budget,Active
+P0184,Electronics Product 0184,Electronics,Laptops,Everday,3125.12,2398.98,Standard,Active
+P0185,Sports Product 0185,Sports,Sportswear,Vertex,1022.71,675.68,Premium,Active
+P0186,Grocery Product 0186,Grocery,Beverages,BrightHome,2496.76,1825.37,Premium,Active
+P0187,Beauty Product 0187,Beauty,Makeup,Peak,716.98,446.36,Premium,Active
+P0188,Home Product 0188,Home & Kitchen,Furniture,Northstar,2895.68,1513.79,Premium,Active
+P0189,Books Product 0189,Books,Children,BlueLeaf,863.6,510.41,Standard,Active
+P0190,Sports Product 0190,Sports,Sportswear,Nova,296.84,209.89,Standard,Active
+P0191,Electronics Product 0191,Electronics,Laptops,UrbanNest,2322.61,1833.73,Standard,Discontinued
+P0192,Books Product 0192,Books,Business,Vertex,494.55,339.96,Premium,Active
+P0193,Home Product 0193,Home & Kitchen,Storage,Cedar & Co.,2095.66,1494.3,Standard,Active
+P0194,Sports Product 0194,Sports,Cycling,Nova,1361.82,859.23,Budget,Discontinued
+P0195,Home Product 0195,Home & Kitchen,Cookware,Peak,3039.56,2112.34,Standard,Discontinued
+P0196,Grocery Product 0196,Grocery,Beverages,Cedar & Co.,976.44,748.67,Premium,Discontinued
+P0197,Beauty Product 0197,Beauty,Haircare,Vertex,4067.65,2583.75,Standard,Active
+P0198,Home Product 0198,Home & Kitchen,Storage,UrbanNest,1967.07,1336.09,Standard,Active
+P0199,Sports Product 0199,Sports,Outdoor,Northstar,400.89,193.45,Standard,Active
+P0200,Sports Product 0200,Sports,Sportswear,Everday,613.36,455.89,Standard,Active
+P0201,Grocery Product 0201,Grocery,Beverages,Orion,770.52,480.61,Premium,Discontinued
+P0202,Grocery Product 0202,Grocery,Household,Everday,780.38,411.2,Standard,Discontinued
+P0203,Sports Product 0203,Sports,Outdoor,BlueLeaf,227.78,173.81,Standard,Active
+P0204,Fashion Product 0204,Fashion,Footwear,Vertex,654.16,466.61,Budget,Active
+P0205,Grocery Product 0205,Grocery,Snacks,Peak,2124.65,1545.61,Budget,Active
+P0206,Fashion Product 0206,Fashion,Women Clothing,BrightHome,1030.24,512.53,Standard,Active
+P0207,Beauty Product 0207,Beauty,Personal Care,Northstar,358.18,222.67,Standard,Active
+P0208,Beauty Product 0208,Beauty,Personal Care,Orion,273.91,214.64,Budget,Active
+P0209,Electronics Product 0209,Electronics,Laptops,Nova,2343.89,1178.87,Standard,Active
+P0210,Fashion Product 0210,Fashion,Men Clothing,UrbanNest,544.63,267.87,Budget,Active
+P0211,Electronics Product 0211,Electronics,Mobile Phones,Nova,373.33,283.68,Standard,Active
+P0212,Electronics Product 0212,Electronics,Accessories,Everday,1590.56,1162.46,Budget,Active
+P0213,Fashion Product 0213,Fashion,Footwear,Vertex,2359.18,1427.51,Standard,Active
+P0214,Beauty Product 0214,Beauty,Haircare,UrbanNest,1090.67,555.41,Standard,Active
+P0215,Sports Product 0215,Sports,Fitness,BrightHome,1338.05,704.69,Premium,Active
+P0216,Home Product 0216,Home & Kitchen,Home Decor,Cedar & Co.,1801.81,1462.53,Standard,Discontinued
+P0217,Electronics Product 0217,Electronics,Audio,BlueLeaf,1487.1,1085.3,Premium,Active
+P0218,Sports Product 0218,Sports,Cycling,Peak,2510.6,1227.77,Premium,Active
+P0219,Fashion Product 0219,Fashion,Watches,Orion,307.53,226.86,Budget,Active
+P0220,Home Product 0220,Home & Kitchen,Home Decor,Nova,2368.94,1557.47,Premium,Active
+P0221,Books Product 0221,Books,Technology,Aster,644.83,356.06,Budget,Discontinued
+P0222,Electronics Product 0222,Electronics,Cameras,Northstar,1619.38,1036.06,Budget,Active
+P0223,Electronics Product 0223,Electronics,Laptops,Orion,7831.47,4279.63,Premium,Active
+P0224,Electronics Product 0224,Electronics,Laptops,Peak,667.56,416.38,Standard,Active
+P0225,Sports Product 0225,Sports,Fitness,UrbanNest,380.97,190.02,Standard,Active
+P0226,Books Product 0226,books ,Fiction,Aster,450.41,352.24,Standard,Discontinued
+P0227,Electronics Product 0227,Electronics,Mobile Phones,Nova,333.02,173.66,Budget,Discontinued
+P0228,Sports Product 0228,Sports,Sportswear,BrightHome,884.67,724.43,Standard,Active
+P0229,Home Product 0229,Home & Kitchen,Home Decor,Cedar & Co.,2738.59,2065.18,Standard,Discontinued
+P0230,Fashion Product 0230,Fashion,Bags,Vertex,693.57,426.66,Standard,Active
+P0231,Home Product 0231,Home & Kitchen,Furniture,Orion,5764.38,4464.45,Premium,Active
+P0232,Home Product 0232,Home & Kitchen,Furniture,BrightHome,3941.03,2740.08,Budget,Discontinued
+P0233,Home Product 0233,Home & Kitchen,Storage,UrbanNest,3718.28,2502.77,Standard,Active
+P0234,Fashion Product 0234,Fashion,Watches,Aster,405.7,242.43,Standard,Active
+P0235,Electronics Product 0235,Electronics,Audio,BlueLeaf,1936.43,1070.74,Premium,Discontinued
+P0236,Home Product 0236,Home & Kitchen,Storage,Nova,961.5,764.73,Premium,Active
+P0237,Electronics Product 0237,Electronics,Cameras,Cedar & Co.,1358.77,1079.03,Premium,Discontinued
+P0238,Electronics Product 0238,Electronics,Mobile Phones,Aster,6066.85,4072.72,Premium,Active
+P0239,Sports Product 0239,Sports,Outdoor,Peak,1180.69,568.93,Budget,Discontinued
+P0240,Sports Product 0240,Sports,Outdoor,Aster,2920.78,1963.13,Standard,Active
+P0241,Beauty Product 0241,Beauty,Skincare,Peak,788.56,637.35,Budget,Discontinued
+P0242,Electronics Product 0242,Electronics,Accessories,Everday,872.64,679.41,Standard,Active
+P0243,Sports Product 0243,Sports,Cycling,Peak,538.42,438.24,Premium,Discontinued
+P0244,Home Product 0244,Home & Kitchen,Home Decor,Northstar,1387.0,721.59,Budget,Discontinued
+P0245,Home Product 0245,Home & Kitchen,Storage,UrbanNest,7134.6,3482.75,Standard,Active
+P0246,Books Product 0246,Books,Business,Nova,367.45,259.87,Premium,Active
+P0247,Electronics Product 0247,Electronics,Audio,Peak,2242.27,1239.69,Standard,Active
+P0248,Home Product 0248,Home & Kitchen,Kitchen Appliances,Orion,803.89,644.79,Budget,Active
+P0249,Grocery Product 0249,Grocery,Beverages  ,Aster,1064.64,826.46,Premium,Active
+P0250,Fashion Product 0250,Fashion,Footwear,BrightHome,903.45,597.87,Budget,Discontinued
+P0251,Electronics Product 0251,Electronics,Laptops,BlueLeaf,3577.75,2815.75,Standard,Active
+P0252,Sports Product 0252,Sports,Accessories,Cedar & Co.,846.78,646.77,Standard,Active
+P0253,Grocery Product 0253,Grocery,Household,Everday,537.27,339.18,Standard,Active
+P0254,Home Product 0254,Home & Kitchen,Cookware,Orion,1353.94,781.57,Standard,Discontinued
+P0255,Sports Product 0255,Sports,Fitness,BlueLeaf,208.7,169.42,Budget,Active
+P0256,Electronics Product 0256,Electronics,Accessories,BrightHome,2365.97,1574.62,Budget,Active
+P0257,Grocery Product 0257,Grocery,Staples,BlueLeaf,99.0,62.88,Standard,Active
+P0258,Home Product 0258,Home & Kitchen,Furniture,Everday,4592.18,2325.15,Standard,Discontinued
+P0259,Grocery Product 0259,Grocery,Household,Everday,432.7,230.87,Standard,Active
+P0260,Electronics Product 0260,Electronics,Accessories,Northstar,1569.74,1253.12,Standard,Discontinued
+P0261,Electronics Product 0261,Electronics,Laptops,Nova,1244.89,680.14,Premium,Active
+P0262,Fashion Product 0262,Fashion,Bags,Peak,645.73,354.27,Premium,Discontinued
+P0263,Sports Product 0263,Sports,Sportswear,Cedar & Co.,1813.3,926.23,Standard,Active
+P0264,Grocery Product 0264,Grocery,Staples,Nova,663.81,492.59,Standard,Active
+P0265,Home Product 0265,Home & Kitchen,Kitchen Appliances,BlueLeaf,908.65,570.47,Standard,Discontinued
+P0266,Electronics Product 0266,Electronics,Cameras,Northstar,1469.01,798.98,Standard,Active
+P0267,Fashion Product 0267,Fashion,Men Clothing,Peak,467.3,382.36,Standard,Active
+P0268,Fashion Product 0268,Fashion,Footwear,Orion,851.85,580.63,Premium,Active
+P0269,Electronics Product 0269,Electronics,Audio,Cedar & Co.,5613.18,4405.77,Standard,Active
+P0270,Sports Product 0270,Sports,Fitness,Northstar,600.68,447.99,Premium,Active
+P0271,Sports Product 0271,Sports,Sportswear,Everday,2479.87,1748.95,Premium,Discontinued
+P0272,Home Product 0272,Home & Kitchen,Cookware,BrightHome,2541.02,1921.32,Premium,Active
+P0273,Fashion Product 0273,Fashion,Footwear,Orion,172.65,90.57,Standard,Active
+P0274,Beauty Product 0274,Beauty,Personal Care,Everday,563.35,322.62,Budget,Active
+P0275,Electronics Product 0275,Electronics,Laptops,Orion,2522.55,1664.87,Budget,Active
+P0276,Books Product 0276,Books,Children,Vertex,354.2,213.09,Standard,Active
+P0277,Home Product 0277,Home & Kitchen,Furniture,UrbanNest,1769.63,1180.49,Premium,Active
+P0278,Fashion Product 0278,Fashion,Men Clothing,Nova,828.05,608.05,Standard,Discontinued
+P0279,Sports Product 0279,Sports,Outdoor,Orion,1756.07,948.21,Standard,Active
+P0280,Home Product 0280,Home & Kitchen,Furniture,Orion,1742.7,1022.46,Standard,Active
+P0281,Fashion Product 0281,Fashion,Watches,UrbanNest,145.31,81.41,Budget,Active
+P0282,Fashion Product 0282,Fashion,Bags,Everday,513.16,397.62,Premium,Discontinued
+P0283,Sports Product 0283,Sports,Accessories,Northstar,472.78,301.03,Standard,Active
+P0284,Fashion Product 0284,Fashion,Men Clothing,BrightHome,1032.7,638.73,Premium,Active
+P0285,Sports Product 0285,Sports,Accessories,Nova,316.52,237.27,Budget,Discontinued
+P0286,Sports Product 0286,Sports,Accessories,Nova,534.48,313.67,Standard,Active
+P0287,Books Product 0287,Books,Children,Cedar & Co.,170.96,114.44,Standard,Active
+P0288,Electronics Product 0288,Electronics,Mobile Phones,Vertex,1045.54,839.32,Budget,Active
+P0289,Books Product 0289,Books,Children,Orion,1159.36,876.56,Standard,Discontinued
+P0290,Electronics Product 0290,Electronics,Accessories,BrightHome,975.66,738.5,Standard,Active
+P0291,Grocery Product 0291,Grocery,Staples,Orion,1123.56,704.53,Standard,Discontinued
+P0292,Beauty Product 0292,Beauty,Personal Care,Northstar,643.72,491.77,Standard,Active
+P0293,Fashion Product 0293,Fashion,Women Clothing,Cedar & Co.,842.41,463.93,Standard,Active
+P0294,Electronics Product 0294,Electronics,Accessories,Nova,1645.86,1208.07,Standard,Active
+P0295,Electronics Product 0295,Electronics,Audio,BrightHome,636.33,491.89,Premium,Active
+P0296,Grocery Product 0296,Grocery,Packaged Foods,Orion,912.67,563.25,Standard,Discontinued
+P0297,Beauty Product 0297,Beauty,Skincare,Vertex,1520.04,971.61,Standard,Active
+P0298,Fashion Product 0298,Fashion,Men Clothing,Orion,951.49,714.25,Budget,Discontinued
+P0299,Home Product 0299,Home & Kitchen,Storage,UrbanNest,1743.43,916.89,Budget,Active
+P0300,Electronics Product 0300,Electronics,Audio,Orion,474.76,292.32,Standard,Active
+P0301,Books Product 0301,Books,Business,Vertex,1569.64,1243.02,Budget,Active
+P0302,Electronics Product 0302,Electronics,Accessories,Peak,2384.72,1847.98,Premium,Active
+P0303,Beauty Product 0303,Beauty,Personal Care,Nova,803.74,642.26,Premium,Discontinued
+P0304,Sports Product 0304,Sports,Cycling,Aster,557.88,409.05,Premium,Discontinued
+P0305,Home Product 0305,Home & Kitchen,Home Decor,Nova,587.84,382.67,Standard,Active
+P0306,Home Product 0306,Home & Kitchen,Home Decor,Vertex,1069.49,845.4,Premium,Active
+P0307,Books Product 0307,Books,Fiction,Peak,200.66,150.57,Budget,Active
+P0308,Grocery Product 0308,Grocery,Packaged Foods  ,UrbanNest,3893.98,2335.21,Standard,Active
+P0309,Grocery Product 0309,Grocery,Beverages,Nova,768.89,597.95,Standard,Active
+P0310,Home Product 0310,Home & Kitchen,Storage,Vertex,542.94,423.71,Budget,Active
+P0311,Home Product 0311,Home & Kitchen,Furniture,Everday,2365.95,1803.0,Standard,Active
+P0312,Beauty Product 0312,Beauty,Haircare,Peak,434.25,281.61,Standard,Active
+P0313,Sports Product 0313,Sports,Sportswear,Aster,584.6,468.47,Standard,Active
+P0314,Home Product 0314,Home & Kitchen,Storage,Vertex,638.47,468.42,Standard,Discontinued
+P0315,Fashion Product 0315,Fashion,Footwear,Vertex,3858.09,2154.56,Standard,Active
+P0316,Beauty Product 0316,Beauty,Fragrance,Cedar & Co.,722.73,529.73,Standard,Active
+P0317,Fashion Product 0317,Fashion,Men Clothing,BlueLeaf,1402.01,1096.29,Budget,Active
+P0318,Fashion Product 0318,Fashion,Women Clothing,Nova,597.11,484.02,Budget,Discontinued
+P0319,Home Product 0319,Home & Kitchen,Cookware,Nova,659.68,336.83,Standard,Active
+P0320,Grocery Product 0320,Grocery,Snacks,Peak,1513.97,794.93,Premium,Discontinued
+P0321,Beauty Product 0321,Beauty,Skincare,Everday,607.18,423.25,Standard,Discontinued
+P0322,Fashion Product 0322,Fashion,Watches,Aster,1290.7,824.76,Budget,Active
+P0323,Home Product 0323,Home & Kitchen,Home Decor,Nova,5451.18,4177.26,Standard,Discontinued
+P0324,Sports Product 0324,Sports,Sportswear,Orion,421.67,312.08,Standard,Active
+P0325,Books Product 0325,Books,Children,Cedar & Co.,397.3,267.54,Standard,Active
+P0326,Books Product 0326,Books,Business,Cedar & Co.,3560.68,2464.01,Premium,Active
+P0327,Books Product 0327,Books,Business,BlueLeaf,294.15,185.88,Standard,Active
+P0328,Electronics Product 0328,Electronics,Mobile Phones,Vertex,904.36,662.52,Budget,Active
+P0329,Fashion Product 0329,fashion ,Men Clothing,Vertex,246.03,159.85,Premium,Active
+P0330,Fashion Product 0330,Fashion,Bags,Cedar & Co.,761.26,521.22,Standard,Active
+P0331,Fashion Product 0331,Fashion,Watches,Peak,310.88,201.39,Standard,Discontinued
+P0332,Fashion Product 0332,Fashion,Bags,Nova,814.96,451.29,Standard,Active
+P0333,Fashion Product 0333,Fashion,Women Clothing,Vertex,162.04,79.55,Premium,Discontinued
+P0334,Grocery Product 0334,Grocery,Snacks,Orion,466.25,323.14,Premium,Active
+P0335,Home Product 0335,Home & Kitchen,Furniture,Vertex,426.18,335.82,Standard,Active
+P0336,Sports Product 0336,Sports,Sportswear,BlueLeaf,150.26,83.57,Standard,Active
+P0337,Home Product 0337,Home & Kitchen,Storage,Everday,2962.55,2419.5,Standard,Active
+P0338,Sports Product 0338,Sports,Sportswear,BrightHome,1157.36,635.75,Budget,Active
+P0339,Home Product 0339,Home & Kitchen,Cookware,BrightHome,5794.44,4721.98,Budget,Active
+P0340,Home Product 0340,Home & Kitchen,Storage,Aster,778.64,518.63,Standard,Active
+P0341,Books Product 0341,Books,Business,BrightHome,1969.79,1168.89,Standard,Active
+P0342,Electronics Product 0342,Electronics,Mobile Phones,Aster,585.53,369.9,Budget,Active
+P0343,Fashion Product 0343,Fashion,Men Clothing,Aster,1067.43,576.6,Premium,Discontinued
+P0344,Electronics Product 0344,Electronics,Laptops,Vertex,2570.58,1742.31,Budget,Active
+P0345,Electronics Product 0345,Electronics,Audio,Everday,2943.21,1855.9,Standard,Active
+P0346,Sports Product 0346,Sports,Accessories,Everday,731.35,395.46,Standard,Discontinued
+P0347,Electronics Product 0347,Electronics,Accessories,Orion,1181.08,857.98,Premium,Discontinued
+P0348,Fashion Product 0348,Fashion,Bags,Vertex,1123.66,721.68,Standard,Active
+P0349,Electronics Product 0349,Electronics,Mobile Phones,UrbanNest,1277.85,621.38,Standard,Active
+P0350,Books Product 0350,Books,Children,Orion,754.99,570.45,Standard,Active
+P0351,Fashion Product 0351,Fashion,Watches,Everday,129.02,63.8,Standard,Active
+P0352,Home Product 0352,Home & Kitchen,Home Decor,Everday,1284.42,976.55,Standard,Discontinued
+P0353,Grocery Product 0353,Grocery,Staples,Aster,1034.11,831.07,Standard,Discontinued
+P0354,Grocery Product 0354,Grocery,Packaged Foods,Orion,901.05,729.89,Standard,Active
+P0355,Sports Product 0355,Sports,Fitness,Everday,99.0,61.56,Premium,Active
+P0356,Beauty Product 0356,Beauty,Skincare,Orion,286.19,208.38,Standard,Discontinued
+P0357,Fashion Product 0357,Fashion,Footwear,UrbanNest,419.74,306.1,Standard,Discontinued
+P0358,Electronics Product 0358,Electronics,Mobile Phones,Peak,1329.89,1064.54,Standard,Active
+P0359,Sports Product 0359,Sports,Sportswear,BrightHome,271.92,152.87,Premium,Active
+P0360,Home Product 0360,Home & Kitchen,Cookware,Peak,716.66,584.57,Standard,Active
+P0361,Books Product 0361,Books,Technology,UrbanNest,338.17,216.97,Budget,Active
+P0362,Home Product 0362,Home & Kitchen,Furniture,UrbanNest,1102.21,723.96,Standard,Discontinued
+P0363,Grocery Product 0363,Grocery,Beverages,BlueLeaf,418.82,327.07,Standard,Active
+P0364,Electronics Product 0364,Electronics,Mobile Phones,Peak,1037.69,514.8,Standard,Active
+P0365,Fashion Product 0365,Fashion,Watches,BrightHome,544.62,313.2,Standard,Active
+P0366,Home Product 0366,Home & Kitchen,Storage,BrightHome,3206.5,1657.59,Standard,Active
+P0367,Fashion Product 0367,Fashion,Women Clothing,BrightHome,426.94,259.78,Standard,Active
+P0368,Electronics Product 0368,Electronics,Audio,Northstar,2088.76,1247.5,Standard,Active
+P0369,Beauty Product 0369,Beauty,Fragrance,Cedar & Co.,773.34,529.33,Budget,Discontinued
+P0370,Beauty Product 0370,Beauty,Haircare,Cedar & Co.,606.87,483.02,Standard,Discontinued
+P0371,Fashion Product 0371,Fashion,Bags,Everday,785.14,466.64,Budget,Active
+P0372,Fashion Product 0372,Fashion,Men Clothing,Aster,1585.35,935.56,Budget,Active
+P0373,Fashion Product 0373,Fashion,Men Clothing,Nova,732.49,477.13,Standard,Active
+P0374,Grocery Product 0374,Grocery,Staples,Cedar & Co.,657.2,532.45,Standard,Active
+P0375,Sports Product 0375,Sports,Fitness,BrightHome,993.11,765.55,Standard,Active
+P0376,Grocery Product 0376,Grocery,Staples,Orion,448.93,261.49,Standard,Active
+P0377,Electronics Product 0377,Electronics,Cameras,BlueLeaf,3800.77,2696.4,Standard,Active
+P0378,Home Product 0378,Home & Kitchen,Furniture,BlueLeaf,7577.02,4838.78,Budget,Active
+P0379,Fashion Product 0379,Fashion,Women Clothing,Orion,701.81,418.63,Standard,Active
+P0380,Electronics Product 0380,Electronics,Audio,UrbanNest,15346.16,11264.35,Budget,Active
+P0381,Grocery Product 0381,Grocery,Beverages,Everday,413.61,298.88,Budget,Active
+P0382,Electronics Product 0382,Electronics,Laptops,Vertex,2393.01,1582.51,Premium,Active
+P0383,Electronics Product 0383,Electronics,Mobile Phones,Cedar & Co.,1553.92,766.78,Standard,Discontinued
+P0384,Home Product 0384,Home & Kitchen,Furniture,Cedar & Co.,1877.91,1024.59,Standard,Active
+P0385,Home Product 0385,Home & Kitchen,Furniture,UrbanNest,2443.02,1193.59,Standard,Active
+P0386,Grocery Product 0386,Grocery,Packaged Foods,Vertex,1164.19,758.39,Standard,Active
+P0387,Beauty Product 0387,Beauty,Skincare,Vertex,1042.13,817.52,Standard,Active
+P0388,Beauty Product 0388,Beauty,Personal Care,Peak,1248.99,994.12,Budget,Active
+P0389,Beauty Product 0389,Beauty,Skincare,Nova,380.55,187.09,Budget,Active
+P0390,Books Product 0390,Books,Children,Vertex,296.34,152.11,Standard,Active
+P0391,Electronics Product 0391,Electronics,Cameras,BrightHome,2089.07,1281.71,Standard,Active
+P0392,Home Product 0392,Home & Kitchen,Cookware,Vertex,2115.12,1321.59,Standard,Active
+P0393,Home Product 0393,Home & Kitchen,Home Decor,Orion,1762.57,937.0,Standard,Active
+P0394,Home Product 0394,Home & Kitchen,Home Decor,BlueLeaf,4011.37,2275.59,Budget,Discontinued
+P0395,Grocery Product 0395,Grocery,Staples,Northstar,499.36,329.08,Standard,Active
+P0396,Fashion Product 0396,Fashion,Bags,Cedar & Co.,605.31,481.87,Premium,Active
+P0397,Beauty Product 0397,Beauty,Haircare,Aster,320.53,242.77,Standard,Active
+P0398,Home Product 0398,Home & Kitchen,Home Decor,BrightHome,3115.55,1621.18,Budget,Discontinued
+P0399,Electronics Product 0399,Electronics,Laptops,UrbanNest,980.88,710.3,Standard,Active
+P0400,Electronics Product 0400,Electronics,Mobile Phones,Vertex,4776.25,3075.94,Standard,Discontinued
+P0401,Electronics Product 0401,Electronics,Audio,Cedar & Co.,1034.59,607.31,Standard,Active
+P0402,Home Product 0402,Home & Kitchen,Home Decor,Northstar,722.77,567.7,Premium,Active
+P0403,Electronics Product 0403,Electronics,Audio,Aster,1360.33,809.76,Premium,Active
+P0404,Grocery Product 0404,Grocery,Snacks,Peak,176.2,137.07,Standard,Active
+P0405,Home Product 0405,Home & Kitchen,Cookware,Peak,3102.97,1553.39,Standard,Active
+P0406,Home Product 0406,Home & Kitchen,Furniture,UrbanNest,447.34,254.56,Standard,Active
+P0407,Home Product 0407,Home & Kitchen,Storage,Peak,1576.4,959.74,Premium,Active
+P0408,Fashion Product 0408,Fashion,Bags,UrbanNest,461.67,346.18,Standard,Active
+P0409,Books Product 0409,Books,Business,Cedar & Co.,1712.55,876.05,Premium,Active
+P0410,Beauty Product 0410,Beauty,Skincare,Northstar,603.91,438.42,Premium,Discontinued
+P0411,Books Product 0411,Books,Business,Vertex,358.32,277.87,Standard,Active
+P0412,Electronics Product 0412,Electronics,Audio,Peak,9273.72,6495.83,Standard,Active
+P0413,Home Product 0413,Home & Kitchen,Storage,BlueLeaf,900.48,460.88,Budget,Active
+P0414,Electronics Product 0414,Electronics,Cameras,Nova,1431.98,1160.63,Premium,Active
+P0415,Home Product 0415,Home & Kitchen,Storage,UrbanNest,1130.2,822.43,Standard,Discontinued
+P0416,Beauty Product 0416,Beauty,Skincare,Orion,298.73,220.23,Standard,Active
+P0417,Fashion Product 0417,Fashion,Men Clothing,UrbanNest,833.78,522.44,Premium,Active
+P0418,Grocery Product 0418,Grocery,Household,Aster,360.82,220.39,Standard,Active
+P0419,Home Product 0419,Home & Kitchen,Furniture,Nova,1532.78,994.37,Budget,Discontinued
+P0420,Electronics Product 0420,Electronics,Mobile Phones,UrbanNest,2889.96,1466.06,Budget,Active
+P0421,Electronics Product 0421,Electronics,Mobile Phones,Orion,1194.69,775.74,Premium,Active
+P0422,Sports Product 0422,Sports,Outdoor,Nova,800.06,500.56,Budget,Active
+P0423,Home Product 0423,Home & Kitchen,Home Decor,Everday,550.2,295.96,Standard,Active
+P0424,Home Product 0424,Home & Kitchen,Storage,Cedar & Co.,4312.4,2167.31,Budget,Discontinued
+P0425,Electronics Product 0425,Electronics,Laptops,Aster,1246.23,959.89,Standard,Active
+P0426,Fashion Product 0426,Fashion,Footwear,Aster,449.01,290.16,Budget,Active
+P0427,Electronics Product 0427,Electronics,Audio,Northstar,2219.36,1425.72,Budget,Active
+P0428,Books Product 0428,Books,Children,Aster,523.62,325.86,Standard,Active
+P0429,Fashion Product 0429,Fashion,Footwear,UrbanNest,1528.68,864.15,Standard,Active
+P0430,Sports Product 0430,sports ,Fitness,BrightHome,1957.5,1028.64,Budget,Active
+P0431,Electronics Product 0431,Electronics,Audio,Nova,1755.2,870.69,Budget,Active
+P0432,Electronics Product 0432,Electronics,Accessories,Northstar,3954.72,1994.89,Budget,Active
+P0433,Home Product 0433,Home & Kitchen,Home Decor,Aster,3308.81,2703.37,Standard,Active
+P0434,Electronics Product 0434,Electronics,Mobile Phones,Orion,3157.81,2156.13,Budget,Discontinued
+P0435,Sports Product 0435,Sports,Outdoor,Vertex,126.11,84.37,Standard,Discontinued
+P0436,Grocery Product 0436,Grocery,Beverages,Peak,2110.06,1712.02,Standard,Active
+P0437,Fashion Product 0437,Fashion,Women Clothing,Nova,1504.96,992.37,Standard,Discontinued
+P0438,Electronics Product 0438,electronics ,Accessories,Northstar,1505.25,1114.2,Budget,Active
+P0439,Beauty Product 0439,Beauty,Skincare,Aster,384.79,267.33,Budget,Active
+P0440,Beauty Product 0440,beauty ,Fragrance,Cedar & Co.,205.89,121.4,Budget,Active
+P0441,Fashion Product 0441,Fashion,Men Clothing,BlueLeaf,1509.14,1112.36,Budget,Active
+P0442,Electronics Product 0442,Electronics,Mobile Phones,Northstar,2269.11,1460.55,Standard,Active
+P0443,Home Product 0443,Home & Kitchen,Cookware,Everday,2799.15,1969.18,Premium,Active
+P0444,Beauty Product 0444,Beauty,Personal Care,Nova,339.51,174.65,Standard,Active
+P0445,Sports Product 0445,Sports,Cycling,BlueLeaf,330.7,225.33,Standard,Active
+P0446,Sports Product 0446,Sports,Sportswear,UrbanNest,1798.21,1224.69,Standard,Active
+P0447,Sports Product 0447,Sports,Fitness,BlueLeaf,526.59,318.69,Standard,Discontinued
+P0448,Electronics Product 0448,Electronics,Mobile Phones,BrightHome,8740.35,7001.1,Standard,Active
+P0449,Electronics Product 0449,Electronics,Laptops,UrbanNest,838.66,511.86,Budget,Discontinued
+P0450,Electronics Product 0450,Electronics,Accessories,Orion,512.12,412.82,Standard,Active
+P0451,Grocery Product 0451,Grocery,Household,Northstar,997.6,666.16,Standard,Active
+P0452,Fashion Product 0452,Fashion,Bags,Vertex,490.24,349.16,Budget,Discontinued
+P0453,Home Product 0453,Home & Kitchen,Cookware,Aster,2701.03,2157.05,Standard,Discontinued
+P0454,Fashion Product 0454,Fashion,Watches,Orion,413.03,215.03,Standard,Active
+P0455,Sports Product 0455,Sports,Outdoor,Nova,266.48,177.62,Standard,Active
+P0456,Fashion Product 0456,Fashion,Men Clothing,UrbanNest,1067.88,739.93,Standard,Discontinued
+P0457,Grocery Product 0457,Grocery,Snacks,Northstar,329.07,228.58,Premium,Active
+P0458,Books Product 0458,Books,Children,Cedar & Co.,526.85,424.51,Budget,Active
+P0459,Home Product 0459,Home & Kitchen,Furniture,Aster,1652.1,1077.9,Standard,Active
+P0460,Home Product 0460,Home & Kitchen,Furniture,Aster,2138.57,1299.38,Standard,Discontinued
+P0461,Home Product 0461,Home & Kitchen,Cookware,UrbanNest,4078.71,2650.16,Premium,Discontinued
+P0462,Home Product 0462,Home & Kitchen,Cookware,Orion,4534.4,2215.12,Standard,Active
+P0463,Electronics Product 0463,Electronics,Accessories,Everday,3587.14,2632.56,Standard,Active
+P0464,Home Product 0464,home & kitchen ,Storage,Peak,1146.47,589.27,Budget,Active
+P0465,Electronics Product 0465,Electronics,Cameras,Everday,1814.89,1381.32,Standard,Active
+P0466,Books Product 0466,Books,Children,Nova,2474.25,1290.52,Standard,Discontinued
+P0467,Sports Product 0467,Sports,Outdoor,Aster,1084.38,521.94,Standard,Discontinued
+P0468,Electronics Product 0468,Electronics,Laptops,Northstar,4258.76,2626.83,Budget,Discontinued
+P0469,Books Product 0469,Books,Technology,Nova,338.49,267.59,Standard,Active
+P0470,Grocery Product 0470,Grocery,Staples,Northstar,931.83,577.56,Standard,Active
+P0471,Beauty Product 0471,Beauty,Makeup,Aster,514.43,354.35,Standard,Discontinued
+P0472,Home Product 0472,Home & Kitchen,Storage,Peak,1659.66,1258.93,Budget,Active
+P0473,Home Product 0473,Home & Kitchen,Kitchen Appliances,Peak,3378.6,2610.65,Budget,Discontinued
+P0474,Sports Product 0474,Sports,Accessories,Everday,1760.04,981.46,Premium,Discontinued
+P0475,Fashion Product 0475,Fashion,Watches,Everday,167.3,96.72,Standard,Discontinued
+P0476,Fashion Product 0476,Fashion,Men Clothing,BlueLeaf,745.58,517.62,Standard,Active
+P0477,Fashion Product 0477,Fashion,Watches,Orion,1819.34,996.0,Premium,Discontinued
+P0478,Fashion Product 0478,Fashion,Watches,Northstar,917.94,531.45,Premium,Discontinued
+P0479,Beauty Product 0479,Beauty,Skincare,BlueLeaf,347.94,284.49,Standard,Active
+P0480,Beauty Product 0480,Beauty,Fragrance,Orion,350.71,278.87,Premium,Active
+P0481,Electronics Product 0481,Electronics,Cameras,Orion,5187.62,3189.49,Standard,Active
+P0482,Fashion Product 0482,Fashion,Women Clothing,Everday,308.69,242.12,Premium,Active
+P0483,Fashion Product 0483,Fashion,Women Clothing,Everday,413.53,254.54,Standard,Active
+P0484,Fashion Product 0484,Fashion,Footwear,BlueLeaf,1306.04,990.06,Standard,Active
+P0485,Beauty Product 0485,Beauty,Makeup,Northstar,761.71,516.52,Standard,Discontinued
+P0486,Electronics Product 0486,electronics ,Cameras,Peak,975.5,552.86,Budget,Active
+P0487,Home Product 0487,Home & Kitchen,Kitchen Appliances,Northstar,4233.14,3291.05,Standard,Discontinued
+P0488,Electronics Product 0488,Electronics,Accessories,Northstar,1533.15,1189.8,Standard,Active
+P0489,Home Product 0489,Home & Kitchen,Storage,Vertex,878.24,561.42,Budget,Active
+P0490,Electronics Product 0490,Electronics,Laptops,Aster,2239.36,1814.95,Standard,Active
+P0491,Electronics Product 0491,Electronics,Mobile Phones,Northstar,968.2,630.38,Budget,Active
+P0492,Fashion Product 0492,Fashion,Men Clothing,Orion,567.94,428.53,Standard,Active
+P0493,Electronics Product 0493,Electronics,Laptops,Vertex,1311.1,690.25,Standard,Active
+P0494,Electronics Product 0494,Electronics,Accessories,Aster,1100.74,736.08,Standard,Active
+P0495,Fashion Product 0495,Fashion,Watches,Nova,854.99,615.83,Premium,Discontinued
+P0496,Sports Product 0496,Sports,Fitness,Northstar,1638.64,1212.65,Budget,Active
+P0497,Electronics Product 0497,Electronics,Cameras,Orion,482.12,236.82,Standard,Active
+P0498,Sports Product 0498,Sports,Sportswear,BrightHome,299.75,233.78,Budget,Discontinued
+P0499,Books Product 0499,Books,Business,BlueLeaf,725.02,508.93,Budget,Active
+P0500,Home Product 0500,Home & Kitchen,Kitchen Appliances,Peak,3368.0,2698.56,Premium,Active
+P0501,Sports Product 0501,Sports,Accessories,Cedar & Co.,815.39,613.04,Budget,Active
+P0502,Beauty Product 0502,Beauty,Skincare,Everday,276.39,193.62,Standard,Active
+P0503,Electronics Product 0503,Electronics,Audio,Nova,797.13,555.48,Standard,Active
+P0504,Books Product 0504,Books,Fiction,Everday,419.03,277.95,Standard,Discontinued
+P0505,Sports Product 0505,Sports,Sportswear,Aster,270.36,220.63,Budget,Active
+P0506,Books Product 0506,Books,Business,Vertex,480.53,341.67,Budget,Discontinued
+P0507,Fashion Product 0507,Fashion,Watches,Aster,1056.43,549.84,Standard,Active
+P0508,Beauty Product 0508,Beauty,Haircare,Aster,1424.41,763.99,Budget,Active
+P0509,Books Product 0509,Books,Business,Aster,483.84,324.15,Standard,Discontinued
+P0510,Fashion Product 0510,Fashion,Footwear,BlueLeaf,1049.47,606.44,Standard,Active
+P0511,Grocery Product 0511,Grocery,Household,Cedar & Co.,435.65,278.02,Standard,Discontinued
+P0512,Beauty Product 0512,Beauty,Fragrance,Everday,2419.84,1532.76,Budget,Active
+P0513,Books Product 0513,Books,Fiction,BlueLeaf,574.87,328.8,Standard,Active
+P0514,Beauty Product 0514,Beauty,Skincare,Vertex,921.58,579.67,Standard,Active
+P0515,Fashion Product 0515,Fashion,Bags,Orion,867.44,642.73,Standard,Active
+P0516,Fashion Product 0516,Fashion,Women Clothing,Peak,463.99,273.33,Budget,Discontinued
+P0517,Books Product 0517,Books,Technology  ,BrightHome,1078.88,669.88,Standard,Active
+P0518,Electronics Product 0518,Electronics,Laptops,Northstar,1481.53,773.52,Premium,Active
+P0519,Grocery Product 0519,Grocery,Beverages,Aster,2372.2,1507.84,Standard,Active
+P0520,Electronics Product 0520,Electronics,Laptops,Nova,1118.56,641.33,Standard,Active
+P0521,Electronics Product 0521,Electronics,Mobile Phones,Nova,601.06,400.84,Standard,Active
+P0522,Electronics Product 0522,Electronics,Audio,BrightHome,2252.35,1802.03,Standard,Active
+P0523,Electronics Product 0523,Electronics,Accessories,Cedar & Co.,7622.91,5240.74,Budget,Active
+P0524,Grocery Product 0524,Grocery,Snacks,Everday,1345.94,931.18,Standard,Active
+P0525,Grocery Product 0525,Grocery,Beverages,Nova,1594.36,970.81,Premium,Active
+P0526,Electronics Product 0526,Electronics,Accessories,Everday,3116.3,2097.44,Standard,Active
+P0527,Fashion Product 0527,Fashion,Men Clothing,BlueLeaf,1351.49,719.93,Standard,Active
+P0528,Electronics Product 0528,Electronics,Accessories,Everday,971.77,796.65,Standard,Active
+P0529,Books Product 0529,Books,Children,Aster,216.05,153.95,Premium,Active
+P0530,Books Product 0530,Books,Fiction,Cedar & Co.,253.14,139.38,Budget,Active
+P0531,Books Product 0531,Books,Children,Peak,391.05,199.12,Standard,Active
+P0532,Grocery Product 0532,Grocery,Snacks,Cedar & Co.,241.13,182.55,Standard,Active
+P0533,Home Product 0533,Home & Kitchen,Kitchen Appliances,UrbanNest,3164.75,2549.57,Budget,Discontinued
+P0534,Beauty Product 0534,Beauty,Skincare,Vertex,722.86,571.46,Standard,Active
+P0535,Electronics Product 0535,Electronics,Audio,Aster,1094.62,886.35,Standard,Active
+P0536,Home Product 0536,Home & Kitchen,Home Decor,Northstar,942.41,555.04,Premium,Active
+P0537,Electronics Product 0537,Electronics,Laptops,Peak,1324.6,693.54,Budget,Discontinued
+P0538,Sports Product 0538,Sports,Cycling,Orion,977.38,705.08,Budget,Active
+P0539,Books Product 0539,Books,Technology,UrbanNest,2794.53,1917.4,Standard,Active
+P0540,Electronics Product 0540,Electronics,Laptops,Orion,1047.38,559.84,Budget,Active
+P0541,Sports Product 0541,Sports,Fitness,UrbanNest,1185.02,795.65,Standard,Discontinued
+P0542,Electronics Product 0542,Electronics,Cameras,Everday,3455.76,1774.0,Premium,Discontinued
+P0543,Home Product 0543,Home & Kitchen,Furniture,Vertex,5227.89,3885.9,Premium,Active
+P0544,Electronics Product 0544,Electronics,Mobile Phones,UrbanNest,1833.31,1062.58,Budget,Discontinued
+P0545,Books Product 0545,books ,Business,UrbanNest,1120.46,899.02,Standard,Active
+P0546,Electronics Product 0546,Electronics,Laptops,Everday,1407.33,1030.72,Premium,Active
+P0547,Home Product 0547,Home & Kitchen,Home Decor,Nova,2066.92,1596.26,Premium,Active
+P0548,Beauty Product 0548,Beauty,Haircare,BrightHome,374.19,211.91,Budget,Active
+P0549,Books Product 0549,Books,Children,Everday,634.36,344.25,Premium,Discontinued
+P0550,Grocery Product 0550,Grocery,Beverages,BrightHome,710.75,449.27,Budget,Active
+P0551,Fashion Product 0551,Fashion,Women Clothing,BlueLeaf,411.33,232.22,Budget,Active
+P0552,Books Product 0552,Books,Education,Northstar,789.53,543.96,Premium,Active
+P0553,Electronics Product 0553,Electronics,Accessories,Orion,2126.07,1452.63,Standard,Active
+P0554,Sports Product 0554,Sports,Outdoor,Cedar & Co.,3903.54,2465.67,Standard,Active
+P0555,Beauty Product 0555,Beauty,Skincare,BrightHome,505.92,408.66,Budget,Active
+P0556,Sports Product 0556,Sports,Sportswear,Aster,532.7,316.82,Premium,Active
+P0557,Home Product 0557,Home & Kitchen,Furniture,Orion,10565.73,7440.04,Budget,Discontinued
+P0558,Home Product 0558,Home & Kitchen,Storage,Vertex,1176.74,746.32,Budget,Active
+P0559,Sports Product 0559,Sports,Fitness,Cedar & Co.,140.25,113.32,Standard,Discontinued
+P0560,Electronics Product 0560,Electronics,Mobile Phones,Nova,1584.04,899.12,Budget,Active
+P0561,Electronics Product 0561,Electronics,Mobile Phones,Cedar & Co.,2208.92,1541.65,Premium,Active
+P0562,Books Product 0562,Books,Fiction,UrbanNest,1473.89,1177.37,Standard,Active
+P0563,Beauty Product 0563,Beauty,Makeup,BlueLeaf,1671.96,1162.07,Standard,Discontinued
+P0564,Home Product 0564,Home & Kitchen,Storage,Cedar & Co.,1360.23,727.92,Standard,Active
+P0565,Fashion Product 0565,Fashion,Men Clothing,Orion,322.56,214.24,Standard,Active
+P0566,Grocery Product 0566,Grocery,Packaged Foods,Peak,466.71,367.01,Standard,Active
+P0567,Beauty Product 0567,Beauty,Makeup,Vertex,4149.86,2072.1,Budget,Active
+P0568,Home Product 0568,Home & Kitchen,Furniture,Aster,2494.85,2042.4,Budget,Active
+P0569,Books Product 0569,Books,Education,Vertex,1158.63,894.31,Standard,Active
+P0570,Books Product 0570,Books,Education,BrightHome,252.87,132.02,Standard,Active
+P0571,Electronics Product 0571,Electronics,Accessories,Aster,1264.49,741.14,Budget,Active
+P0572,Electronics Product 0572,Electronics,Accessories,Aster,3724.17,2548.35,Standard,Active
+P0573,Electronics Product 0573,Electronics,Audio,Aster,769.09,627.15,Premium,Active
+P0574,Grocery Product 0574,Grocery,Packaged Foods,Nova,303.37,149.76,Standard,Discontinued
+P0575,Electronics Product 0575,Electronics,Mobile Phones,Peak,3178.95,1804.03,Standard,Discontinued
+P0576,Electronics Product 0576,Electronics,Mobile Phones,Nova,4478.99,3257.05,Standard,Discontinued
+P0577,Home Product 0577,Home & Kitchen,Furniture,Orion,1604.58,1072.13,Premium,Active
+P0578,Home Product 0578,Home & Kitchen,Storage,Everday,3014.78,1543.55,Budget,Active
+P0579,Beauty Product 0579,Beauty,Haircare,Cedar & Co.,377.04,264.23,Budget,Discontinued
+P0580,Electronics Product 0580,Electronics,Audio,Cedar & Co.,1127.59,583.22,Standard,Active
+P0581,Books Product 0581,Books,Technology,Vertex,2852.98,1511.48,Premium,Active
+P0582,Electronics Product 0582,Electronics,Laptops,Northstar,2179.69,1291.26,Budget,Active
+P0583,Beauty Product 0583,Beauty,Haircare,BlueLeaf,777.69,586.89,Premium,Active
+P0584,Books Product 0584,Books,Education,Orion,411.9,259.24,Standard,Active
+P0585,Electronics Product 0585,Electronics,Audio,Nova,1731.71,1392.98,Standard,Active
+P0586,Home Product 0586,Home & Kitchen,Furniture,BlueLeaf,2323.6,1560.08,Standard,Discontinued
+P0587,Electronics Product 0587,Electronics,Accessories,Everday,3016.95,2270.7,Budget,Active
+P0588,Grocery Product 0588,Grocery,Staples,Cedar & Co.,1241.76,710.43,Standard,Active
+P0589,Beauty Product 0589,Beauty,Skincare,Nova,381.05,256.14,Standard,Active
+P0590,Books Product 0590,Books,Education,Northstar,377.87,242.67,Standard,Active
+P0591,Electronics Product 0591,Electronics,Accessories,Vertex,742.55,391.81,Budget,Active
+P0592,Books Product 0592,Books,Business,Everday,1401.84,1008.48,Standard,Discontinued
+P0593,Fashion Product 0593,Fashion,Men Clothing,UrbanNest,896.68,633.04,Standard,Active
+P0594,Electronics Product 0594,Electronics,Laptops,Aster,1193.07,831.77,Standard,Active
+P0595,Electronics Product 0595,Electronics,Mobile Phones,BrightHome,2553.67,1851.3,Premium,Active
+P0596,Fashion Product 0596,Fashion,Footwear,Cedar & Co.,1895.45,1397.21,Standard,Active
+P0597,Electronics Product 0597,Electronics,Mobile Phones,Cedar & Co.,906.52,514.01,Budget,Active
+P0598,Electronics Product 0598,Electronics,Cameras,Peak,605.45,295.87,Standard,Active
+P0599,Grocery Product 0599,Grocery,Household,Cedar & Co.,978.79,675.03,Standard,Active
+P0600,Beauty Product 0600,Beauty,Skincare,Vertex,1498.5,762.87,Standard,Active
+P0601,Fashion Product 0601,Fashion,Watches,BlueLeaf,345.2,236.62,Budget,Discontinued
+P0602,Sports Product 0602,Sports,Cycling,Aster,628.55,349.37,Standard,Discontinued
+P0603,Electronics Product 0603,Electronics,Mobile Phones,Orion,6178.11,3703.52,Standard,Active
+P0604,Home Product 0604,Home & Kitchen,Cookware,Vertex,2306.37,1373.78,Standard,Discontinued
+P0605,Electronics Product 0605,Electronics,Cameras,Peak,1423.34,1068.19,Premium,Discontinued
+P0606,Home Product 0606,Home & Kitchen,Storage,Northstar,1356.48,704.66,Standard,Active
+P0607,Fashion Product 0607,Fashion,Women Clothing,UrbanNest,481.63,309.88,Premium,Active
+P0608,Home Product 0608,Home & Kitchen,Storage,Northstar,1032.93,701.31,Standard,Active
+P0609,Home Product 0609,Home & Kitchen,Home Decor,BlueLeaf,1529.48,804.38,Standard,Active
+P0610,Electronics Product 0610,Electronics,Accessories,BrightHome,2866.43,1534.92,Standard,Active
+P0611,Electronics Product 0611,Electronics,Cameras,Cedar & Co.,8449.74,6797.4,Standard,Active
+P0612,Grocery Product 0612,Grocery,Household,Everday,934.91,513.18,Standard,Active
+P0613,Grocery Product 0613,Grocery,Staples,BrightHome,570.4,300.61,Premium,Active
+P0614,Electronics Product 0614,Electronics,Accessories,Northstar,1089.03,865.95,Standard,Active
+P0615,Books Product 0615,Books,Business,BlueLeaf,1165.72,890.26,Standard,Active
+P0616,Sports Product 0616,Sports,Accessories,BrightHome,392.13,257.0,Standard,Active
+P0617,Electronics Product 0617,Electronics,Cameras,BlueLeaf,1877.5,1227.51,Standard,Active
+P0618,Electronics Product 0618,Electronics,Laptops,BlueLeaf,530.87,396.83,Budget,Active
+P0619,Sports Product 0619,Sports,Cycling,UrbanNest,546.04,336.85,Standard,Active
+P0620,Electronics Product 0620,Electronics,Audio,BrightHome,1889.84,1501.02,Premium,Discontinued
+P0621,Fashion Product 0621,Fashion,Bags,Cedar & Co.,407.84,273.69,Standard,Active
+P0622,Electronics Product 0622,Electronics,Laptops,Vertex,330.67,188.41,Standard,Active
+P0623,Home Product 0623,Home & Kitchen,Kitchen Appliances,Northstar,1455.59,1034.76,Budget,Active
+P0624,Sports Product 0624,Sports,Outdoor,BlueLeaf,214.66,143.85,Standard,Active
+P0625,Grocery Product 0625,Grocery,Packaged Foods,Vertex,315.2,247.99,Standard,Active
+P0626,Fashion Product 0626,Fashion,Watches,BrightHome,393.58,189.82,Budget,Active
+P0627,Beauty Product 0627,Beauty,Skincare,Everday,443.12,259.46,Budget,Discontinued
+P0628,Fashion Product 0628,Fashion,Footwear,BrightHome,1007.08,623.61,Standard,Active
+P0629,Sports Product 0629,Sports,Cycling,Northstar,876.74,589.05,Standard,Active
+P0630,Sports Product 0630,Sports,Sportswear,Orion,255.0,183.09,Premium,Active
+P0631,Beauty Product 0631,Beauty,Personal Care,Orion,630.63,486.23,Premium,Active
+P0632,Sports Product 0632,Sports,Fitness  ,UrbanNest,283.61,209.25,Budget,Active
+P0633,Home Product 0633,Home & Kitchen,Cookware,Everday,1810.82,1266.23,Premium,Active
+P0634,Fashion Product 0634,Fashion,Footwear,Peak,861.28,612.94,Budget,Active
+P0635,Books Product 0635,Books,Education,Cedar & Co.,1862.31,1475.75,Budget,Discontinued
+P0636,Electronics Product 0636,Electronics,Cameras,Peak,1104.35,817.47,Budget,Active
+P0637,Electronics Product 0637,Electronics,Audio,BrightHome,1888.48,1184.06,Standard,Discontinued
+P0638,Sports Product 0638,Sports,Fitness,Cedar & Co.,1354.13,672.41,Standard,Active
+P0639,Electronics Product 0639,Electronics,Cameras,BlueLeaf,3091.65,1723.97,Premium,Discontinued
+P0640,Home Product 0640,Home & Kitchen,Kitchen Appliances,Peak,1517.35,1009.03,Standard,Discontinued
+P0641,Home Product 0641,Home & Kitchen,Storage,Peak,2602.25,2131.76,Standard,Active
+P0642,Sports Product 0642,Sports,Accessories,Nova,1311.95,783.2,Standard,Active
+P0643,Beauty Product 0643,Beauty,Fragrance,Peak,1027.65,710.84,Standard,Active
+P0644,Fashion Product 0644,Fashion,Watches,UrbanNest,447.09,242.64,Budget,Discontinued
+P0645,Sports Product 0645,Sports,Fitness,Peak,1126.26,658.08,Budget,Discontinued
+P0646,Home Product 0646,Home & Kitchen,Kitchen Appliances,Everday,879.24,518.39,Budget,Active
+P0647,Home Product 0647,Home & Kitchen,Storage,Vertex,4044.16,2994.1,Budget,Active
+P0648,Beauty Product 0648,Beauty,Makeup,Cedar & Co.,1047.18,787.73,Standard,Active
+P0649,Beauty Product 0649,Beauty,Haircare,UrbanNest,978.85,579.03,Budget,Active
+P0650,Electronics Product 0650,Electronics,Mobile Phones,Vertex,4033.28,3128.27,Budget,Discontinued
+P0651,Fashion Product 0651,Fashion,Watches,UrbanNest,621.36,404.14,Standard,Active
+P0652,Electronics Product 0652,Electronics,Accessories,Everday,1424.16,802.94,Standard,Active
+P0653,Books Product 0653,Books,Fiction,UrbanNest,204.73,160.24,Premium,Active
+P0654,Home Product 0654,Home & Kitchen,Storage,UrbanNest,2343.71,1380.44,Premium,Discontinued
+P0655,Home Product 0655,Home & Kitchen,Storage,BrightHome,977.42,691.3,Premium,Discontinued
+P0656,Books Product 0656,Books,Technology,Orion,532.28,289.84,Budget,Active
+P0657,Books Product 0657,Books,Children,BrightHome,372.4,186.58,Budget,Active
+P0658,Beauty Product 0658,Beauty,Haircare,BlueLeaf,537.77,308.7,Budget,Active
+P0659,Electronics Product 0659,Electronics,Audio,Aster,1959.75,1173.92,Standard,Active
+P0660,Sports Product 0660,Sports,Outdoor,Cedar & Co.,1113.19,613.89,Standard,Active
+P0661,Home Product 0661,Home & Kitchen,Cookware,Aster,2363.71,1469.75,Budget,Active
+P0662,Electronics Product 0662,Electronics,Mobile Phones,Orion,2322.21,1817.37,Standard,Active
+P0663,Home Product 0663,Home & Kitchen,Furniture,Orion,1909.09,1163.02,Premium,Discontinued
+P0664,Books Product 0664,Books,Fiction,Cedar & Co.,757.01,452.38,Budget,Discontinued
+P0665,Home Product 0665,Home & Kitchen,Cookware,Everday,2519.08,1254.84,Premium,Active
+P0666,Fashion Product 0666,Fashion,Men Clothing,Vertex,171.7,93.19,Standard,Active
+P0667,Grocery Product 0667,Grocery,Packaged Foods,Everday,685.11,337.92,Premium,Active
+P0668,Fashion Product 0668,Fashion,Men Clothing,UrbanNest,631.31,393.95,Standard,Active
+P0669,Electronics Product 0669,Electronics,Mobile Phones,BrightHome,1988.51,1119.49,Premium,Discontinued
+P0670,Electronics Product 0670,Electronics,Cameras,Orion,2337.17,1385.09,Standard,Active
+P0671,Beauty Product 0671,Beauty,Personal Care,Northstar,619.6,506.44,Budget,Discontinued
+P0672,Sports Product 0672,Sports,Accessories,Vertex,1043.23,785.15,Standard,Discontinued
+P0673,Books Product 0673,Books,Business,Peak,246.88,154.71,Budget,Discontinued
+P0674,Grocery Product 0674,Grocery,Packaged Foods,Nova,202.37,145.96,Budget,Discontinued
+P0675,Sports Product 0675,Sports,Cycling,Everday,1889.93,1014.66,Budget,Active
+P0676,Beauty Product 0676,Beauty,Haircare,BlueLeaf,788.0,496.45,Standard,Active
+P0677,Sports Product 0677,Sports,Accessories,Peak,2734.07,1978.88,Standard,Discontinued
+P0678,Home Product 0678,Home & Kitchen,Cookware,Vertex,1304.32,663.71,Standard,Active
+P0679,Beauty Product 0679,Beauty,Personal Care,Peak,177.01,100.71,Standard,Active
+P0680,Electronics Product 0680,Electronics,Accessories,BrightHome,422.46,249.74,Standard,Active
+P0681,Electronics Product 0681,Electronics,Audio,Vertex,1910.84,1136.14,Premium,Active
+P0682,Grocery Product 0682,Grocery,Packaged Foods,BlueLeaf,295.7,210.37,Budget,Discontinued
+P0683,Fashion Product 0683,Fashion,Footwear,BlueLeaf,1114.02,821.84,Budget,Active
+P0684,Sports Product 0684,Sports,Fitness,UrbanNest,359.48,200.2,Budget,Active
+P0685,Grocery Product 0685,Grocery,Staples,Nova,333.06,238.93,Standard,Active
+P0686,Electronics Product 0686,Electronics,Laptops,Nova,1574.37,1056.7,Premium,Active
+P0687,Beauty Product 0687,Beauty,Personal Care,BrightHome,582.11,282.5,Standard,Active
+P0688,Electronics Product 0688,Electronics,Laptops,BrightHome,2513.04,1340.79,Premium,Active
+P0689,Grocery Product 0689,Grocery,Beverages,Vertex,1287.42,678.17,Premium,Active
+P0690,Fashion Product 0690,Fashion,Men Clothing,Aster,803.15,502.34,Premium,Active
+P0691,Sports Product 0691,Sports,Sportswear,Vertex,685.55,454.55,Standard,Active
+P0692,Fashion Product 0692,Fashion,Watches,Vertex,455.51,269.42,Premium,Discontinued
+P0693,Fashion Product 0693,Fashion,Footwear,Everday,493.72,315.91,Standard,Active
+P0694,Books Product 0694,Books,Business,BrightHome,526.08,394.72,Premium,Active
+P0695,Books Product 0695,Books,Business,BlueLeaf,559.95,408.2,Premium,Active
+P0696,Home Product 0696,Home & Kitchen,Furniture,Cedar & Co.,3181.41,1827.46,Standard,Active
+P0697,Books Product 0697,Books,Fiction,Orion,908.3,571.1,Premium,Active
+P0698,Fashion Product 0698,Fashion,Men Clothing,Aster,890.91,632.38,Budget,Active
+P0699,Home Product 0699,Home & Kitchen,Furniture,Everday,1706.44,1178.87,Standard,Active
+P0700,Electronics Product 0700,Electronics,Laptops,Everday,4960.7,2583.33,Standard,Discontinued
+P0701,Electronics Product 0701,Electronics,Mobile Phones,Cedar & Co.,1243.75,774.01,Premium,Active
+P0702,Beauty Product 0702,Beauty,Fragrance,Orion,214.67,174.16,Budget,Active
+P0703,Sports Product 0703,Sports,Accessories,Cedar & Co.,626.12,330.86,Premium,Active
+P0704,Fashion Product 0704,Fashion,Footwear,Vertex,1358.53,938.51,Standard,Active
+P0705,Electronics Product 0705,Electronics,Audio,Orion,2199.97,1662.08,Premium,Active
+P0706,Home Product 0706,Home & Kitchen,Home Decor,Peak,1309.83,990.74,Standard,Discontinued
+P0707,Sports Product 0707,Sports,Fitness,Peak,1334.19,1032.99,Standard,Active
+P0708,Home Product 0708,Home & Kitchen,Furniture,BrightHome,1485.75,988.39,Standard,Active
+P0709,Electronics Product 0709,Electronics,Accessories,Northstar,8983.34,7130.98,Standard,Active
+P0710,Fashion Product 0710,Fashion,Footwear,Nova,1002.84,528.71,Standard,Discontinued
+P0711,Fashion Product 0711,Fashion,Women Clothing,Peak,811.59,526.73,Standard,Active
+P0712,Books Product 0712,Books,Fiction,UrbanNest,5072.56,2595.6,Standard,Active
+P0713,Electronics Product 0713,Electronics,Laptops,Everday,1386.12,1080.88,Standard,Active
+P0714,Sports Product 0714,Sports,Fitness,UrbanNest,478.59,298.95,Budget,Discontinued
+P0715,Beauty Product 0715,Beauty,Skincare,Aster,179.5,146.52,Budget,Active
+P0716,Home Product 0716,Home & Kitchen,Kitchen Appliances,Nova,2745.41,1438.89,Standard,Active
+P0717,Home Product 0717,Home & Kitchen,Furniture,Aster,2432.94,1525.24,Standard,Active
+P0718,Electronics Product 0718,Electronics,Accessories,Everday,1247.67,682.44,Standard,Active
+P0719,Electronics Product 0719,Electronics,Cameras,Nova,862.41,605.08,Standard,Active
+P0720,Fashion Product 0720,Fashion,Footwear,Orion,225.17,136.57,Standard,Active
+P0721,Fashion Product 0721,Fashion,Men Clothing,Cedar & Co.,2490.27,2024.77,Standard,Active
+P0722,Home Product 0722,Home & Kitchen,Kitchen Appliances,BlueLeaf,574.68,278.61,Standard,Active
+P0723,Home Product 0723,Home & Kitchen,Kitchen Appliances,Nova,824.76,496.03,Budget,Active
+P0724,Fashion Product 0724,Fashion,Women Clothing,Vertex,241.45,156.56,Standard,Active
+P0725,Books Product 0725,Books,Fiction,Orion,874.24,696.0,Standard,Active
+P0726,Fashion Product 0726,Fashion,Footwear,Cedar & Co.,656.13,415.95,Premium,Active
+P0727,Electronics Product 0727,Electronics,Accessories,Orion,815.13,641.35,Budget,Active
+P0728,Books Product 0728,Books,Technology,BlueLeaf,760.11,488.91,Standard,Discontinued
+P0729,Home Product 0729,Home & Kitchen,Storage,BlueLeaf,1432.66,748.09,Standard,Active
+P0730,Sports Product 0730,Sports,Outdoor,Northstar,625.8,475.19,Budget,Active
+P0731,Electronics Product 0731,Electronics,Cameras,Cedar & Co.,10758.35,6114.31,Standard,Active
+P0732,Home Product 0732,Home & Kitchen,Furniture,Nova,400.79,321.78,Standard,Active
+P0733,Fashion Product 0733,Fashion,Watches,Northstar,1776.08,1029.47,Budget,Active
+P0734,Beauty Product 0734,Beauty,Haircare,Vertex,308.24,221.7,Premium,Active
+P0735,Electronics Product 0735,Electronics,Mobile Phones,Vertex,2146.27,1537.53,Budget,Discontinued
+P0736,Home Product 0736,Home & Kitchen,Kitchen Appliances,Cedar & Co.,1487.96,926.53,Standard,Active
+P0737,Home Product 0737,Home & Kitchen,Home Decor,BlueLeaf,645.31,344.03,Standard,Active
+P0738,Home Product 0738,Home & Kitchen,Furniture,Peak,4416.1,2584.66,Budget,Active
+P0739,Fashion Product 0739,Fashion,Men Clothing,Everday,1020.85,551.84,Standard,Active
+P0740,Sports Product 0740,Sports,Sportswear,Orion,253.91,140.81,Premium,Active
+P0741,Books Product 0741,Books,Fiction,BlueLeaf,516.11,299.51,Premium,Active
+P0742,Home Product 0742,Home & Kitchen,Home Decor,Cedar & Co.,2360.77,1209.81,Premium,Active
+P0743,Grocery Product 0743,Grocery,Staples,Peak,2015.28,1534.5,Budget,Active
+P0744,Beauty Product 0744,Beauty,Makeup,UrbanNest,852.64,580.16,Standard,Discontinued
+P0745,Fashion Product 0745,Fashion,Watches,Cedar & Co.,1046.29,817.77,Standard,Active
+P0746,Electronics Product 0746,Electronics,Accessories,Everday,2796.11,1797.77,Budget,Discontinued
+P0747,Beauty Product 0747,Beauty,Personal Care,Everday,386.48,252.57,Standard,Active
+P0748,Fashion Product 0748,Fashion,Men Clothing,Nova,220.17,158.78,Standard,Discontinued
+P0749,Fashion Product 0749,Fashion,Watches,Aster,680.44,436.37,Standard,Active
+P0750,Books Product 0750,Books,Education,Cedar & Co.,998.29,620.27,Standard,Active
+P0751,Fashion Product 0751,Fashion,Footwear,Peak,1010.83,487.37,Budget,Active
+P0752,Fashion Product 0752,Fashion,Men Clothing,BlueLeaf,405.72,267.0,Budget,Active
+P0753,Home Product 0753,Home & Kitchen,Kitchen Appliances,BlueLeaf,341.75,166.29,Standard,Active
+P0754,Fashion Product 0754,Fashion,Footwear,UrbanNest,261.16,188.12,Standard,Discontinued
+P0755,Beauty Product 0755,Beauty,Skincare,Everday,1491.79,1216.09,Premium,Active
+P0756,Beauty Product 0756,Beauty,Fragrance,UrbanNest,640.44,459.71,Budget,Active
+P0757,Beauty Product 0757,Beauty,Personal Care,Nova,680.74,342.87,Standard,Active
+P0758,Beauty Product 0758,Beauty,Skincare,Northstar,982.14,750.55,Standard,Active
+P0759,Electronics Product 0759,Electronics,Mobile Phones,Northstar,1004.2,516.97,Standard,Active
+P0760,Electronics Product 0760,Electronics,Accessories,Cedar & Co.,4688.63,3440.06,Standard,Discontinued
+P0761,Electronics Product 0761,Electronics,Audio,BrightHome,2713.2,1947.4,Standard,Active
+P0762,Electronics Product 0762,Electronics,Audio,Aster,1059.72,575.51,Standard,Active
+P0763,Grocery Product 0763,Grocery,Beverages,BlueLeaf,1138.09,551.74,Standard,Active
+P0764,Electronics Product 0764,Electronics,Mobile Phones,Northstar,864.89,592.53,Premium,Active
+P0765,Home Product 0765,Home & Kitchen,Storage,Cedar & Co.,1139.92,830.99,Budget,Active
+P0766,Electronics Product 0766,Electronics,Mobile Phones,Peak,1613.17,1250.49,Premium,Active
+P0767,Beauty Product 0767,Beauty,Fragrance,Northstar,163.4,106.7,Premium,Active
+P0768,Sports Product 0768,Sports,Outdoor,Everday,483.01,264.0,Standard,Discontinued
+P0769,Electronics Product 0769,Electronics,Mobile Phones,Orion,2360.06,1811.82,Standard,Discontinued
+P0770,Fashion Product 0770,Fashion,Men Clothing,Everday,240.09,138.02,Budget,Discontinued
+P0771,Home Product 0771,Home & Kitchen,Home Decor,Vertex,834.93,546.06,Standard,Active
+P0772,Beauty Product 0772,Beauty,Fragrance,Peak,686.92,562.87,Budget,Active
+P0773,Sports Product 0773,Sports,Fitness,Orion,883.97,545.95,Budget,Discontinued
+P0774,Books Product 0774,Books,Fiction,Nova,689.79,414.44,Standard,Active
+P0775,Sports Product 0775,Sports,Accessories,Nova,493.38,273.12,Budget,Discontinued
+P0776,Electronics Product 0776,Electronics,Cameras,Vertex,2773.2,1401.78,Budget,Active
+P0777,Home Product 0777,Home & Kitchen,Furniture,BrightHome,389.51,257.56,Premium,Discontinued
+P0778,Beauty Product 0778,Beauty,Makeup,BlueLeaf,3187.63,1909.71,Standard,Active
+P0779,Fashion Product 0779,Fashion,Men Clothing,UrbanNest,502.36,348.3,Standard,Discontinued
+P0780,Home Product 0780,Home & Kitchen,Storage,BrightHome,1644.97,1136.16,Budget,Discontinued
+P0781,Sports Product 0781,Sports,Sportswear,BrightHome,2195.58,1465.07,Premium,Active
+P0782,Electronics Product 0782,Electronics,Mobile Phones,Aster,2464.24,1232.1,Budget,Active
+P0783,Grocery Product 0783,Grocery,Household,Nova,1102.64,554.62,Standard,Active
+P0784,Electronics Product 0784,Electronics,Accessories,Vertex,2098.13,1024.9,Budget,Active
+P0785,Electronics Product 0785,Electronics,Mobile Phones,Nova,776.39,434.51,Premium,Active
+P0786,Beauty Product 0786,Beauty,Fragrance,BrightHome,636.99,418.29,Standard,Discontinued
+P0787,Electronics Product 0787,Electronics,Cameras,BlueLeaf,1300.46,1018.84,Premium,Discontinued
+P0788,Home Product 0788,Home & Kitchen,Cookware,BlueLeaf,489.06,358.08,Standard,Active
+P0789,Books Product 0789,Books,Technology,Cedar & Co.,458.01,293.87,Premium,Active
+P0790,Fashion Product 0790,Fashion,Men Clothing,BrightHome,840.47,437.38,Standard,Active
+P0791,Books Product 0791,Books,Fiction,Nova,2591.68,1416.05,Budget,Active
+P0792,Fashion Product 0792,Fashion,Men Clothing,Orion,489.44,272.39,Budget,Active
+P0793,Grocery Product 0793,Grocery,Staples,UrbanNest,477.81,346.34,Premium,Active
+P0794,Beauty Product 0794,Beauty,Haircare,Aster,886.57,622.51,Standard,Active
+P0795,Electronics Product 0795,Electronics,Audio,Vertex,2524.65,1879.91,Budget,Discontinued
+P0796,Electronics Product 0796,Electronics,Cameras,Northstar,1290.8,825.12,Budget,Active
+P0797,Home Product 0797,Home & Kitchen,Furniture,Northstar,2186.92,1325.79,Standard,Active
+P0798,Electronics Product 0798,Electronics,Cameras,Cedar & Co.,1851.87,1377.01,Standard,Active
+P0799,Electronics Product 0799,Electronics,Cameras,Peak,2850.71,1543.11,Premium,Active
+P0800,Books Product 0800,Books,Fiction,Everday,700.7,380.83,Standard,Active

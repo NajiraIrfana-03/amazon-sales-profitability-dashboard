@@ -1,0 +1,25 @@
+﻿RegionID,Region,City,State,Country,SalesTerritory
+R001,North,Delhi,Delhi,India,North Territory
+R002,North,Jaipur,Rajasthan,India,North Territory
+R003,North,Lucknow,Uttar Pradesh,India,North Territory
+R004,North,Chandigarh,Chandigarh,India,North Territory
+R005,North,Dehradun,Uttarakhand,India,North Territory
+R006,South,Chennai,Tamil Nadu,India,South Territory
+R007,South,Coimbatore,Tamil Nadu,India,South Territory
+R008,South,Bengaluru,Karnataka,India,South Territory
+R009,South,Hyderabad,Telangana,India,South Territory
+R010,South,Kochi,Kerala,India,South Territory
+R011,South,Thiruvananthapuram,Kerala,India,South Territory
+R012,South,Mysuru,Karnataka,India,South Territory
+R013,West,Mumbai,Maharashtra,India,West Territory
+R014,West,Pune,Maharashtra,India,West Territory
+R015,West,Ahmedabad,Gujarat,India,West Territory
+R016,West,Surat,Gujarat,India,West Territory
+R017,West,Nagpur,Maharashtra,India,West Territory
+R018,West,Goa,Goa,India,West Territory
+R019,East,Kolkata,West Bengal,India,East Territory
+R020,East,Bhubaneswar,Odisha,India,East Territory
+R021,East,Patna,Bihar,India,East Territory
+R022,East,Ranchi,Jharkhand,India,East Territory
+R023,East,Guwahati,Assam,India,East Territory
+R024,East,Siliguri,West Bengal,India,East Territory
